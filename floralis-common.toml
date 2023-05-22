@@ -1,0 +1,35 @@
+
+#Feature settings
+[featureSettings]
+	#Default: 256. Average distance between a patch of flowers of the same type.
+	#Range: > 0
+	flowerRarity = 256
+	#Default: 64. Number of attempts to spawn a flower in a given area. Setting this to 0 disables natural spawning flowers.
+	#Range: > 0
+	flowerTries = 64
+	#Default: 4. Area in which flowers are tried to spawn.
+	#Range: > 0
+	flowerSpread = 4
+	#Default: 256. Average distance between a patch of cacti of the same type.
+	#Range: > 0
+	cactusRarity = 256
+	#Default: 64. Number of attempts to spawn a cactus in a given area. Setting this to 0 disables natural spawning cacti.
+	#Range: > 0
+	cactusTries = 64
+	#Default: 4. Area in which cacti are tried to spawn.
+	#Range: > 0
+	cactusSpread = 4
+
+#Structure settings
+[structureSettings]
+	#Default: true. Whether fields should generate in plains type villages.
+	plainsField = true
+	#Default: true. Whether fields should generate in snowy type villages.
+	snowyField = true
+	#Default: true. Whether fields should generate in savanna type villages.
+	savannaField = true
+	#Default: true. Whether fields should generate in desert type villages.
+	desertField = true
+	#Default: true. Whether fields should generate in taiga type villages.
+	taigaField = true
+

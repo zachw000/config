@@ -1,0 +1,19 @@
+#Starting balance for players.
+#Range: 0 ~ 10000
+starting_balance = 250
+#Amount of Thyms players will receive daily.
+#Range: 0 ~ 10000
+daily_income = 10
+#Highest possible percentage able to be stolen upon killing a player.
+#The percentage stolen is random up to the amount configured per kill
+#The money is taken from the target's account.
+#Set to 0 to disable.
+#Range: 0 ~ 100
+steal_percentage = 15
+#The minimum amount of Thyms the target requires to have for steal to take effect.
+#Range: 1 ~ 100000
+minimum_thyms_to_steal = 100
+#List of item ids that are allowed to be converted into gift bags
+#Example: giftbag_whitelist = ["swem:rosette_black", "swem:rosette_blue"]
+giftbag_whitelist = ["swem:rosette_black", "swem:rosette_blue", "swem:rosette_brown", "swem:rosette_cyan", "swem:rosette_gray", "swem:rosette_green", "swem:rosette_light_blue", "swem:rosette_light_gray", "swem:rosette_lime", "swem:rosette_magenta", "swem:rosette_orange", "swem:rosette_pink", "swem:rosette_purple", "swem:rosette_red", "swem:rosette_white", "swem:rosette_yellow", "swem:ribbon_two_black", "swem:ribbon_two_blue", "swem:ribbon_two_brown", "swem:ribbon_two_cyan", "swem:ribbon_two_gray", "swem:ribbon_two_green", "swem:ribbon_two_light_blue", "swem:ribbon_two_light_gray", "swem:ribbon_two_lime", "swem:ribbon_two_magenta", "swem:ribbon_two_orange", "swem:ribbon_two_pink", "swem:ribbon_two_purple", "swem:ribbon_two_red", "swem:ribbon_two_white", "swem:ribbon_two_yellow", "swem:ribbon_three_black", "swem:ribbon_three_blue", "swem:ribbon_three_brown", "swem:ribbon_three_cyan", "swem:ribbon_three_gray", "swem:ribbon_three_green", "swem:ribbon_three_light_blue", "swem:ribbon_three_light_gray", "swem:ribbon_three_lime", "swem:ribbon_three_magenta", "swem:ribbon_three_orange", "swem:ribbon_three_pink", "swem:ribbon_three_purple", "swem:ribbon_three_red", "swem:ribbon_three_white", "swem:ribbon_three_yellow", "swem:ribbon_champion", "swem:ribbon_rchampion", "swem:plaques_bronze", "swem:plaques_silver", "swem:plaques_gold", "swem:trophy_bronze", "swem:trophy_silver", "swem:trophy_gold"]
+

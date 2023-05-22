@@ -1,0 +1,23 @@
+
+[client]
+
+	# || =========== [Wings Transparency] =========== ||
+	[client.wings_tansparency]
+		# || Set how visible the horse wings should be! 0 = off, 1 = 50%, 2 = 100%
+		#Range: 0 ~ 2
+		wingsTransparency = 2
+
+	# || =========== [Gait HUD] =========== ||
+	[client.hud]
+		# || Should the gait HUD be enabled?
+		gaitHudEnabled = true
+		# || How much would you like to offset the current X position? (A negative value moves the text up and a positive value down.)				
+		#Range: > -2147483648
+		gaitHudX = 0
+		# || How much would you like to offset the current Y position? (A negative value moves the text up and a positive value down.)				
+		#Range: > -2147483648
+		gaitHudY = 0
+		# || What color should the gait HUD be?
+		#Range: > -2147483648
+		gaitHudColor = 16777215
+
