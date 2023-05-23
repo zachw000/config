@@ -5,7 +5,7 @@
 	#Controls whether to spawn Reeds in River/Swamp biomes
 	reeds = true
 	#Controls whether to spawn random Flora in the world
-	bush = true
+	bush = false
 	#Controls whether to add Tree Orchids (NOT YET IMPLEMENTED)
 	tree_orchid = true
 	#Controls whether to spawn Amazon Sword in Swamp/Jungle biomes
