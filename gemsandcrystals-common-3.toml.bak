@@ -1,0 +1,182 @@
+
+["Configs for Gems and Crystals"]
+	#How many Ruby Ore Veins spawn per chunk!
+	"Ruby Ore Veins Per Chunk" = 4
+	#How many Ruby Ore Blocks spawn in one Vein!
+	#Range: 4 ~ 20
+	"Ruby Ore Vein Size" = 4
+	#Do you want Ruby Ore to generate in the overworld?
+	"Ruby Ore Generation" = true
+	#How low do Ruby Ore Blocks spawn in the overworld!
+	#Range: -80 ~ 480
+	"Ruby Ore Min Height" = -80
+	#How high do Ruby Ore Blocks spawn in the overworld!
+	#Range: -80 ~ 480
+	"Ruby Ore Max Height" = 80
+	#How many Sapphire Ore Veins spawn per chunk!
+	"Sapphire Ore Veins Per Chunk" = 4
+	#How many Sapphire Ore Blocks spawn in one Vein!
+	#Range: 4 ~ 4
+	"Sapphire Ore Vein Size" = 4
+	#Do you want Sapphire Ore to generate in the overworld?
+	"Sapphire Ore Generation" = true
+	#How low do Sapphire Ore Blocks spawn in the overworld!
+	#Range: -80 ~ 480
+	"Sapphire Ore Min Height" = -80
+	#How high do Sapphire Ore Blocks spawn in the overworld!
+	#Range: -80 ~ 480
+	"Sapphire Ore Max Height" = 80
+	#How many Topaz Ore Veins spawn per chunk!
+	"Topaz Ore Veins Per Chunk" = 7
+	#How many Topaz Ore Blocks spawn in one Vein!
+	#Range: 4 ~ 20
+	"Vein Size" = 6
+	#Do you want Topaz Ore to generate in the overworld?
+	"Topaz Ore Generation" = true
+	#How low do Topaz Ore Blocks spawn in the overworld!
+	#Range: -80 ~ 480
+	"Topaz Ore Min Height" = -80
+	#How high do Topaz Ore Blocks spawn in the overworld!
+	#Range: -80 ~ 480
+	"Topaz Ore Max Height" = 80
+	#How many Amethyst Ore Veins spawn per chunk!
+	"Amethyst Ore Veins Per Chunk" = 7
+	#How many Amethyst Ore Blocks spawn in one Vein!
+	#Range: 4 ~ 20
+	"Amethyst Ore Vein Size" = 6
+	#Do you want Amethyst Ore to generate in the overworld?
+	"Amethyst Ore Generation" = true
+	#How low do Amethyst Ore Blocks spawn in the overworld!
+	#Range: -80 ~ 480
+	"Amethyst Ore Min Height" = -80
+	#How high do Amethyst Ore Blocks spawn in the overworld!
+	#Range: -80 ~ 480
+	"Amethyst Ore Max Height" = 80
+	#How many Amethyst Ore Veins spawn per chunk!
+	"Quartz Ore Veins Per Chunk" = 9
+	#How many Amethyst Ore Blocks spawn in one Vein!
+	#Range: 4 ~ 20
+	"Quartz Ore Vein Size" = 8
+	#Do you want Quartz Ore to generate in the overworld?
+	"Quartz Ore Generation" = true
+	#How low do Quartz Ore Blocks spawn in the overworld!
+	#Range: -80 ~ 480
+	"Quartz Ore Min Height" = -80
+	#How high do Quartz Ore Blocks spawn in the overworld!
+	#Range: -80 ~ 480
+	"Quartz Ore Max Height" = 80
+	#What is the Durability Multiplier for Ruby Armor!
+	"Ruby Armor Durability Multiplier" = 36
+	#What is the Enchantment Value for Ruby Armor!
+	"Ruby Armor Enchantment Value" = 16
+	#What is the Toughness for Ruby Armor!
+	"Ruby Armor Toughness" = 2.5
+	#What is the Knockback Resistance for Ruby Armor!
+	"Ruby Armor Knockback Resistance" = 0.1
+	#What is the Durability Multiplier for Sapphire Armor!
+	"Sapphire Armor Durability Multiplier" = 36
+	#What is the Enchantment Value for Sapphire Armor!
+	"Sapphire Armor Enchantment Value" = 16
+	#What is the Toughness for Sapphire Armor!
+	"Sapphire Armor Toughness" = 2.5
+	#What is the Knockback Resistance for Sapphire Armor!
+	"Sapphire Armor Knockback Resistance" = 0.1
+	#What is the Durability Multiplier for Emerald Armor!
+	"Emerald Armor Durability Multiplier" = 36
+	#What is the Enchantment Value for Emerald Armor!
+	"Emerald Armor Enchantment Value" = 14
+	#What is the Toughness for Emerald Armor!
+	"Emerald Armor Toughness" = 1.5
+	#What is the Knockback Resistance for Emerald Armor!
+	"Emerald Armor Knockback Resistance" = 0.0
+	#What is the Durability Multiplier for Topaz Armor!
+	"Topaz Armor Durability Multiplier" = 22
+	#What is the Enchantment Value for Topaz Armor!
+	"Topaz Armor Enchantment Value" = 13
+	#What is the Toughness for Topaz Armor!
+	"Topaz Armor Toughness" = 0.0
+	#What is the Knockback Resistance for Topaz Armor!
+	"Topaz Armor Knockback Resistance" = 0.0
+	#What is the Durability Multiplier for Amethyst Armor!
+	"Amethyst Armor Durability Multiplier" = 18
+	#What is the Enchantment Value for Amethyst Armor!
+	"Amethyst Armor Enchantment Value" = 12
+	#What is the Toughness for Amethyst Armor!
+	"Amethyst Armor Toughness" = 0.0
+	#What is the Knockback Resistance for Amethyst Armor!
+	"Amethyst Armor Knockback Resistance" = 0.0
+	#What is the Durability Multiplier for Quartz Armor!
+	"Quartz Armor Durability Multiplier" = 10
+	#What is the Enchantment Value for Quartz Armor!
+	"Quartz Armor Enchantment Value" = 10
+	#What is the Toughness for Quartz Armor!
+	"Quartz Armor Toughness" = 0.0
+	#What is the Knockback Resistance for Quartz Armor!
+	"Quartz Armor Knockback Resistance" = 0.0
+	#What is the Mining Level of Ruby Tools!
+	#Range: 0 ~ 4
+	"Ruby Tools Mining Level" = 3
+	#What is the number of Uses for Ruby Tools!
+	"Ruby Tools Uses" = 1761
+	#What is the Mining Speed of Ruby Tools!
+	"Ruby Tools Mining Speed" = 8.5
+	#What is the Attack Damage Bonus for Ruby Tools!
+	"Ruby Tools Attack Damage Bonus" = 4.0
+	#What is the Enchantment Value for Ruby Tools!
+	"Ruby Tools Enchantment Value" = 16
+	#What is the Mining Level of Sapphire Tools!
+	#Range: 0 ~ 4
+	"Sapphire Tools Mining Level" = 3
+	#What is the number of Uses for Sapphire Tools!
+	"Sapphire Tools Uses" = 1761
+	#What is the Mining Speed of Sapphire Tools!
+	"Sapphire Tools Mining Speed" = 8.5
+	#What is the Attack Damage Bonus for Sapphire Tools!
+	"Sapphire Tools Attack Damage Bonus" = 4.0
+	#What is the Enchantment Value for Sapphire Tools!
+	"Sapphire Tools Enchantment Value" = 16
+	#What is the Mining Level of Emerald Tools!
+	#Range: 0 ~ 4
+	"Emerald Tools Mining Level" = 3
+	#What is the number of Uses for Emerald Tools!
+	"Emerald Tools Uses" = 1451
+	#What is the Mining Speed of Emerald Tools!
+	"Emerald Tools Mining Speed" = 7.5
+	#What is the Attack Damage Bonus for Emerald Tools!
+	"Emerald Tools Attack Damage Bonus" = 3.0
+	#What is the Enchantment Value for Emerald Tools!
+	"Emerald Tools Enchantment Value" = 14
+	#What is the Mining Level of Topaz Tools!
+	#Range: 0 ~ 4
+	"Topaz Tools Mining Level" = 2
+	#What is the number of Uses for Topaz Tools!
+	"Topaz Tools Uses" = 1061
+	#What is the Mining Speed of Topaz Tools!
+	"Topaz Tools Mining Speed" = 6.5
+	#What is the Attack Damage Bonus for Topaz Tools!
+	"Topaz Tools Attack Damage Bonus" = 2.5
+	#What is the Enchantment Value for Topaz Tools!
+	"Topaz Tools Enchantment Value" = 14
+	#What is the Mining Level of Amethyst Tools!
+	#Range: 0 ~ 4
+	"Amethyst Tools Mining Level" = 2
+	#What is the number of Uses for Amethyst Tools!
+	"Amethyst Tools Uses" = 871
+	#What is the Mining Speed of Amethyst Tools!
+	"Amethyst Tools Mining Speed" = 6.0
+	#What is the Attack Damage Bonus for Amethyst Tools!
+	"Amethyst Tools Attack Damage Bonus" = 2.0
+	#What is the Enchantment Value for Amethyst Tools!
+	"Amethyst Tools Enchantment Value" = 13
+	#What is the Mining Level of Quartz Tools!
+	#Range: 0 ~ 4
+	"Quartz Tools Mining Level" = 2
+	#What is the number of Uses for Quartz Tools!
+	"Quartz Tools Uses" = 671
+	#What is the Mining Speed of Quartz Tools!
+	"Quartz Tools Mining Speed" = 4.0
+	#What is the Attack Damage Bonus for Quartz Tools!
+	"Quartz Tools Attack Damage Bonus" = 1.5
+	#What is the Enchantment Value for Quartz Tools!
+	"Quartz Tools Enchantment Value" = 12
+
