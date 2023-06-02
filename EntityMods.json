@@ -1,0 +1,136 @@
+{
+    "entityMods": [
+        {
+            "modName": "Alex's Mobs", 
+            "enabled": true
+        },
+        {
+            "modName": "Alex's Delight", 
+            "enabled"  : true
+        },
+        {
+            "modName": "Aquaculture", 
+            "enabled": true
+        },
+        {
+            "modName": "Ars Nouveau", 
+            "enabled": true
+        },
+        {
+            "modName": "Ars Arsenal", 
+            "enabled": true
+        },
+        {
+            "modName": "Autumnity", 
+            "enabled": true
+        },
+        {
+            "modName": "Baby DelightBabyfat", 
+            "enabled": true
+        },
+        {
+            "modName": "Bettas", 
+            "enabled": true
+        },
+        {
+            "modName": "Better Animals Plus", 
+            "enabled": true
+        },
+        {
+            "modName": "Buzzier biomesoplentyChococraft", 
+            "enabled": true
+        },
+        {
+            "modName": "Critters and Companions", 
+            "enabled": true
+        },
+        {
+            "modName": "Doggy Talents", 
+            "enabled": true
+        },
+        {
+            "modName": "Dragon Mounts", 
+            "enabled": true
+        },
+        {
+            "modName": "ecologicsEnvironmental", 
+            "enabled": true
+        },
+        {
+            "modName": "Exotic Birds", 
+            "enabled": true
+        },
+        {
+            "modName": "Fairy Dragons", 
+            "enabled": true
+        },
+        {
+            "modName": "Fins and Tails", 
+            "enabled": true
+        },
+        {
+            "modName": "Flash's NPCs", 
+            "enabled": true
+        },
+        {
+            "modName": "Genetic Animals", 
+            "enabled": true
+        },
+        {
+            "modName": "Habitat", 
+            "enabled": true
+        },
+        {
+            "modName": "Hexerei", 
+            "enabled": true
+        },
+        {
+            "modName": "Lil' Wings", 
+            "enabled": true
+        },
+        {
+            "modName": "Mob Catcher", 
+            "enabled": true
+        },
+        {
+            "modName": "More Villagers", 
+            "enabled": true
+        },
+        {
+            "modName": "Mystical world", 
+            "enabled": true
+        },
+        {
+            "modName": "Naturalist", 
+            "enabled": true
+        },
+        {
+            "modName": "Snuffles", 
+            "enabled": true
+        },
+        {
+            "modName": "Sprout", 
+            "enabled": true
+        },
+        {
+            "modName": "Strawgolem", 
+            "enabled": true
+        },
+        {
+            "modName": "Star Worm Equestrian", 
+            "enabled": true
+        },
+        {
+            "modName": "Twilight Forest", 
+            "enabled": true
+        },
+        {
+            "modName": "Untamed Wilds", 
+            "enabled": true
+        },
+        {
+            "modName": "Verdure",
+            "enabled": true
+        }
+    ]
+}

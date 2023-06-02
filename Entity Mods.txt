@@ -1,34 +1,38 @@
-Entity Mods
-Alex's Mobs
-Alex's Delight
-Aquaculture
-Ars Nouveau
-Ars Arsenal
-Autumnity
-Baby DelightBabyfat
-Bettas
-Better Animals Plus
-Buzzier biomesoplentyChococraft
-Critters and Companions
-Doggy Talents
-Dragon Mounts
-ecologicsEnvironmental
-Exotic Birds
-Fairy Dragons
-Fins and Tails
-Flash's NPCs
-Genetic Animals
-Habitat
-Hexerei
-Lil' Wings
-Mob Catcher
-More Villagers
-Mystical world
-Naturalist
-Snuffles
-Sprout
-Strawgolem
-Star Worm Equestrian
-Twilight Forest
-Untamed Wilds
-Verdure
+    Entity Mods
+{
+    entityMods: [
+        "Alex's Mobs",
+        "Alex's Delight",
+        "Aquaculture",
+        "Ars Nouveau",
+        "Ars Arsenal",
+        "Autumnity",
+        "Baby DelightBabyfat",
+        "Bettas",
+        "Better Animals Plus",
+        "Buzzier biomesoplentyChococraft",
+        "Critters and Companions",
+        "Doggy Talents",
+        "Dragon Mounts",
+        "ecologicsEnvironmental",
+        "Exotic Birds",
+        "Fairy Dragons",
+        "Fins and Tails",
+        "Flash's NPCs",
+        "Genetic Animals",
+        "Habitat",
+        "Hexerei",
+        "Lil' Wings",
+        "Mob Catcher",
+        "More Villagers",
+        "Mystical world",
+        "Naturalist",
+        "Snuffles",
+        "Sprout",
+        "Strawgolem",
+        "Star Worm Equestrian",
+        "Twilight Forest",
+        "Untamed Wilds",
+        "Verdure"
+    ]
+}
